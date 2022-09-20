@@ -1,3 +1,7 @@
 This is the 2ns git workflow.
 
 Create a repo in Github --> Clone it first --> Do some changes in local --> Push the changes to GitHub.
+
+=================================================================================================================
+
+Updated GitHub default branch from main to master.
